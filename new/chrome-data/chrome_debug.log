@@ -1,6 +1,0 @@
-[6960:9144:0119/091442.427:ERROR:device_event_log_impl.cc(211)] [09:14:42.427] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
-[6960:9144:0119/091442.451:ERROR:device_event_log_impl.cc(211)] [09:14:42.451] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
-[16188:8172:0119/091538.981:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
-[16188:8172:0119/091539.008:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\asaml\Documents\Programming Assignments\Whatsapp\chrome-data\ShaderCache\GPUCache to C:\Users\asaml\Documents\Programming Assignments\Whatsapp\chrome-data\ShaderCache\old_GPUCache_000
-[16188:8172:0119/091539.215:ERROR:disk_cache.cc(184)] Unable to create cache
-[16188:8172:0119/091539.828:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2

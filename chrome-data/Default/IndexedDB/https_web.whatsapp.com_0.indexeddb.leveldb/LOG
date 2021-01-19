@@ -1,0 +1,15 @@
+2021/01/19-09:14:44.824 4218 Reusing MANIFEST C:\Users\asaml\Documents\Programming Assignments\Whatsapp\chrome-data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/19-09:14:44.825 4218 Recovering log #10
+2021/01/19-09:14:44.885 4218 Reusing old log C:\Users\asaml\Documents\Programming Assignments\Whatsapp\chrome-data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000010.log 
+2021/01/19-09:15:50.488 3998 Level-0 table #15: started
+2021/01/19-09:15:50.568 3998 Level-0 table #15: 603512 bytes OK
+2021/01/19-09:15:50.572 3998 Delete type=0 #10
+2021/01/19-09:15:50.574 3998 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/19-09:15:50.575 3998 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x05\x02\x1f\x03\x00`\xd8\xfd\x0fqwB\x00\x01,\x00h\x00S\x00n\x005\x005\x00a\x00v\x00b\x00R\x00H\x00B\x00w\x00+\x00m\x009\x006\x00P\x00L\x00b\x00N\x00M\x00B\x00m\x00S\x005\x00/\x00y\x00+\x00z\x002\x00f\x00F\x00o\x00/\x00H\x00b\x00K\x00c\x00D\x00/\x00g\x00k\x00k\x00=' @ 103870 : 1
+2021/01/19-09:15:50.575 3998 Compacting 1@1 + 1@2 files
+2021/01/19-09:15:50.742 3998 Generated table #16@1: 24809 keys, 1003661 bytes
+2021/01/19-09:15:50.742 3998 Compacted 1@1 + 1@2 files => 1003661 bytes
+2021/01/19-09:15:50.744 3998 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/19-09:15:50.746 3998 Delete type=2 #12
+2021/01/19-09:15:50.747 3998 Delete type=2 #15
+2021/01/19-09:15:50.751 3998 Manual compaction at level-1 from '\x00\x05\x02\x1f\x03\x00`\xd8\xfd\x0fqwB\x00\x01,\x00h\x00S\x00n\x005\x005\x00a\x00v\x00b\x00R\x00H\x00B\x00w\x00+\x00m\x009\x006\x00P\x00L\x00b\x00N\x00M\x00B\x00m\x00S\x005\x00/\x00y\x00+\x00z\x002\x00f\x00F\x00o\x00/\x00H\x00b\x00K\x00c\x00D\x00/\x00g\x00k\x00k\x00=' @ 103870 : 1 .. (end); will stop at (end)
